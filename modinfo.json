@@ -1,16 +1,16 @@
 {
-	"name": "Amunets Curiosity and Exploration - v1.0.2",
+	"name": "Amunets Curiosity and Exploration - v1.0.3",
 	"description": "This mod clouds the ingame map - you need to explore the world to see.\nFor players who wish to go out on an adventure - probably for new maps ;)\n\nProgress is saved in Single-Player and on each the Server.\n\nDiscord @ https://discord.gg/a8hGAKW",
-	"changeNote": "2021-04-22 v1.0.2\n- patch 2.4 update",
+	"changeNote": "2021-08-19 v1.0.3\n- patch 2.5 update",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 2,
+	"versionBuild": 3,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2427568150",
 	"steamVisibility": 0,
 	"folderName": "AmunetCuriosityExploration",
-	"revisionNumber": 287106,
-	"snapshotId": 28960
+	"revisionNumber": 314055,
+	"snapshotId": 30574
 }
